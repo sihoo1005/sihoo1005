@@ -1,10 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="760" viewBox="0 0 900 760" role="img" aria-labelledby="title description">
-  <title id="title">Penrose Triangle</title>
-  <desc id="description">Three cyan and blue polygonal faces form a Penrose impossible triangle on a dark background. This preview uses the same geometry as penrose_triangle.py.</desc>
-  <rect width="900" height="760" rx="24" fill="#08111f" />
-  <text x="450" y="65" fill="#e7f5ff" font-family="Arial, sans-serif" font-size="33" font-weight="700" text-anchor="middle">PENROSE TRIANGLE</text>
-  <polygon points="416,124.811181 484,124.811181 688,478.149546 348,478.149546 382,419.259818 586,419.259818" fill="#b5f4ff" stroke="#192740" stroke-width="2" stroke-linejoin="round" />
-  <polygon points="246,537.039273 212,478.149546 416,124.811181 586,419.259818 518,419.259818 416,242.590636" fill="#49c3ed" stroke="#192740" stroke-width="2" stroke-linejoin="round" />
-  <polygon points="688,478.149546 654,537.039273 246,537.039273 416,242.590636 450,301.480363 348,478.149546" fill="#5965ce" stroke="#192740" stroke-width="2" stroke-linejoin="round" />
-  <text x="450" y="625" fill="#91a9c2" font-family="Arial, sans-serif" font-size="15" text-anchor="middle" letter-spacing="1">THREE SIDES. ONE IMPOSSIBLE LOOP.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="-300 -300 600 600">
+  <title>선으로 그린 펜로즈 삼각형</title>
+  <rect x="-300" y="-300" width="600" height="600" fill="white" />
+  <g transform="scale(1,-1)" fill="none" stroke="black" stroke-width="2" stroke-linejoin="round">
+    <polygon points="-34,205 34,205 238,-148 -102,-148 -68,-89 136,-89" />
+    <polygon points="-204,-207 -238,-148 -34,205 136,-89 68,-89 -34,87" />
+    <polygon points="238,-148 204,-207 -204,-207 -34,87 0,29 -102,-148" />
+  </g>
 </svg>
