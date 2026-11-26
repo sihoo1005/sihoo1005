@@ -25,7 +25,7 @@ Python이 설치된 컴퓨터에서 실행하면 됩니다.
 
 ### 그림
 
-![펜로즈 삼각형](penrose_triangle.svg)
+![펜로즈 삼각형](penrose_triangle.svg?v=2)
 
 ## 연습한 내용
 
