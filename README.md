@@ -11,10 +11,9 @@
 python gugudan.py
 ```
 
-## 2. 펜로즈 삼각형
+## 2. 터틀로 도형만들기
 
-`penrose_triangle.py`는 turtle을 사용해서 펜로즈 삼각형을 그립니다.
-좌표를 순서대로 연결하고, 색을 채우지 않고 검은 선으로만 그렸습니다.
+`penrose_triangle.py`는 turtle을 사용해서 도형을 만들었 습니다.
 
 ```bash
 python penrose_triangle.py
