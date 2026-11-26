@@ -6,9 +6,7 @@
 
 구구단 출력과 Turtle 펜로즈 삼각형을 직접 구현한 Python 미니 프로젝트입니다.
 
-![Python](https://img.shields.io/badge/Python_3-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Turtle Graphics](https://img.shields.io/badge/Turtle_Graphics-22C55E?style=for-the-badge)
-![Standard Library](https://img.shields.io/badge/Standard_Library-8B5CF6?style=for-the-badge)
+<p><code>Python 3</code> &nbsp; · &nbsp; <code>Turtle Graphics</code> &nbsp; · &nbsp; <code>Standard Library</code></p>
 
 <img src="penrose_triangle.svg" alt="세 가지 색의 면이 이어지는 펜로즈 삼각형 미리보기" width="560">
 
