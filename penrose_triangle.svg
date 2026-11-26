@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="-300 -300 600 600">
-  <title>선으로 그린 펜로즈 삼각형</title>
-  <rect x="-300" y="-300" width="600" height="600" fill="white" />
-  <g transform="scale(1,-1)" fill="none" stroke="black" stroke-width="2" stroke-linejoin="round">
-    <polygon points="-34,205 34,205 238,-148 -102,-148 -68,-89 136,-89" />
-    <polygon points="-204,-207 -238,-148 -34,205 136,-89 68,-89 -34,87" />
-    <polygon points="238,-148 204,-207 -204,-207 -34,87 0,29 -102,-148" />
-  </g>
-</svg>
